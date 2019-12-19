@@ -81,10 +81,10 @@ Spring Boot应用，借款人端资金存管功能，前期接入恒丰移动系
 以下均为我熟练使用的技能
 
 - 开发：Java、Kotlin
-- 框架：Spring全家桶/Kafka/Mybatis/Arrow
--  消息中间件：Kafka
+- 框架：Spring Boot/AOP/Guava/Arrow
+- 消息中间件：Kafka
 - RPC：Dubbo
--  熔断降级：Sentinel
+- 熔断降级：Sentinel
 - 前端框架：Layui
 - 数据库相关：MySQL/Redis
 - 版本管理、项目管理：Git/Maven/Gradle
