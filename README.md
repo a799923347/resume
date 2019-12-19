@@ -76,10 +76,6 @@ Spring Boot应用，借款人端资金存管功能，前期接入恒丰移动系
  - [Java函数式接口](https://pan.baidu.com/s/1UImLp5JsRla1q--sXNeWQg)
  - [单元测试-你不知道的事](https://pan.baidu.com/s/1EkUq784XFYuEsT455LPYOA)
 
-
-## 自我评价
-有时过于负能量，看问题的角度可能会过于悲观
-
 ## 技能清单
 
 以下均为我熟练使用的技能
