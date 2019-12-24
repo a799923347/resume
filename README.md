@@ -71,7 +71,12 @@ Spring Boot应用，借款人端资金存管功能，前期接入恒丰移动系
 
 ---
 
+## 自我评价
+- 优点：学习能力、适应能力优，善沟通、总结，做事负责，考虑问题周全
+- 缺点：行事风格偏保守，不够激进
+
 ## 分享
+>如果打不开可移步[此处](https://github.com/a799923347/resume)
 
  - [Java函数式接口](https://pan.baidu.com/s/1UImLp5JsRla1q--sXNeWQg)
  - [单元测试-你不知道的事](https://pan.baidu.com/s/1EkUq784XFYuEsT455LPYOA)
