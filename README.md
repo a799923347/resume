@@ -92,4 +92,4 @@ Spring Boot应用，借款人端资金存管功能，前期接入恒丰移动系
 - 数据库相关：MySQL/Redis
 - 版本管理、项目管理：Git/Maven/Gradle
 - 单元测试：Junit、Mockito
-- 其他：Vim、Linux常用运维
+- 其他：Vim、Linux常用运维、BTrace
