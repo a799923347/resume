@@ -83,7 +83,7 @@
 
 以下均为我熟练使用的技能
 
-- 开发：Java、Kotlin
+- 开发：Java、Kotlin、Python
 - 框架：Spring Boot/AOP/Mybatis//Guava/Arrow
 - 消息中间件：Kafka
 - 存储：MySQL/Redis
